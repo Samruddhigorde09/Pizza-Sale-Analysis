@@ -24,8 +24,10 @@ The Pizza Sales Report project analyzes a dataset containing sales information f
 > Regional performance metrics
 
 ## Tools and Technologies
-### SQL: For data extraction, cleaning, and transformation.
-### Power BI: For creating interactive and visually appealing dashboards.
+### SQL: 
+For data extraction, cleaning, and transformation.
+### Power BI: 
+For creating interactive and visually appealing dashboards.
 
 ## Dataset
 The dataset includes information such as:
